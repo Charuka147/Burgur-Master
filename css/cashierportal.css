@@ -1,0 +1,76 @@
+.image-container2 {
+    position: relative;
+    display: inline-block;
+}
+
+.image-container2 img {
+    width: 100%;
+    height: auto;
+    
+} 
+
+#HeaderCashierportal{
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    z-index: 1;
+    color: white; 
+}
+
+#addNewCustomerbtn{
+    position: absolute; /* or relative, depending on your layout needs */
+    top: 30%; /* adjust as needed */
+    left: 20%; /* adjust as needed */
+    transform: translate(-50%, -50%);
+    background-color: #FB0E0E;
+    color: white;
+    border: none;
+    padding: 15px 130px; /* adjust padding as needed */
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 50px; 
+}
+
+#viewCustomerbtn{
+    position: absolute; /* or relative, depending on your layout needs */
+    top: 45%;  /* adjust as needed */
+    left: 20%; /* adjust as needed */
+    transform: translate(-50%, -50%);
+    background-color: #FB0E0E;
+    color: white;
+    border: none;
+    padding: 15px 120px; /* adjust padding as needed */
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+#placeOrderbtn{
+    position: absolute; /* or relative, depending on your layout needs */
+    top: 60%;  /* adjust as needed */
+    left: 20%; /* adjust as needed */
+    transform: translate(-50%, -50%);
+    background-color: #FB0E0E;
+    color: white;
+    border: none;
+    padding: 15px 130px; /* adjust padding as needed */
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 50px;
+}
+#viewItemListbtn{
+    position: absolute; /* or relative, depending on your layout needs */
+    top: 75%;  /* adjust as needed */
+    left: 20%; /* adjust as needed */
+    transform: translate(-50%, -50%);
+    background-color: #FB0E0E;
+    color: white;
+    border: none;
+    padding: 15px 130px; /* adjust padding as needed */
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 50px;
+
+}
